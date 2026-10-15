@@ -1,2 +1,2 @@
-this is different main version
+this is final resolved version
 
